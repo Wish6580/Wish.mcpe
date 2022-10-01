@@ -1,0 +1,19 @@
+*{box-sizing: border-box;}
+ ol{color:gree;}
+h2{color: aquamarne;font-weight:bold;font-famil:courtier new;}
+nav{background:#594848;
+  width:100%;overflow:auto;}
+ul{margin:0;padding:0;list-style:none;}
+li{float: left;}
+nav a{width: 100px;
+      display:block;
+      text-decoration:none;
+      text-align: center;
+      background-color :#594848;
+      font-size :17px;
+      color: white;
+      padding:20px 10px;
+      font-family: arial;
+}
+nav a:hover{background-color: skyblue;
+            color:black;}

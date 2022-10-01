@@ -1,0 +1,40 @@
+body  {margin:0;
+background-color:gray;
+}
+h4    {
+font-size:35px;
+font-family:times new roman;
+}
+*{box-sizing: border-box;}label{font-size: 
+12px;color:whit;}
+fieldset{color:whie;
+font-weight:bold;
+font-style:italic;}
+legend {color:brwn;
+font-weight:bold;
+font-family:
+monospace;
+}
+placeholder {font-family:impact;font-size:12px;}
+input{color:purpl;}
+p{color:white;} details{color:whie;}
+ ol{color:gree;}
+h2{color: aquamarne;font-weight:bold;font-famil:courtier new;}
+nav{background:#594848;
+  width:100%;overflow:auto;}
+ul{margin:0;padding:0;list-style:none;}
+li{float: left;}
+nav a{width: 100px;
+      display:block;
+      text-decoration:none;
+      text-align: center;
+      background-color :#594848;
+      font-size :17px;
+      color: white;
+      padding:20px 10px;
+      font-family: arial;
+}
+nav a:hover{background-color: skyblue
+            color:black
+  
+}
